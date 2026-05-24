@@ -14,7 +14,10 @@ A timer that watches you waste your life debugging something you should have aba
 6. The only button says **"Keep Going"** with an unhinged justification
 7. There is no quit button. There was never a quit button.
 8. When you finally finish, you receive a **receipt of shame** — a scrolling list of everything you could have done, how many times you clicked "Keep Going," and the question: *Was it worth it?*
-
+<p align="left">
+    <img src="Cheerful.png" alt="Sunk Cost Buddy"
+  width="200">
+  </p>
 ## The Magpie
 
 Five states of escalating crisis:
